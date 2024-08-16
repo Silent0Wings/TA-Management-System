@@ -1,7 +1,7 @@
 # TA Management System
 
 ## Overview
-Project Repport .[here](https://github.com/Silent0Wings/TA-Management-System/blob/bf029accb56ef2e5cec511388ebec640274ea775/Github.pdf).
+Project Report .[here](https://github.com/Silent0Wings/TA-Management-System/blob/bf029accb56ef2e5cec511388ebec640274ea775/Github.pdf).
 
 The TA Management System is a C++ project designed to manage records of Teaching Assistants (TAs) within a department. The system ensures that only eligible TAs—those who are currently registered students—are maintained in the records. The project involves filtering out records of TAs who have graduated and updating the TA file accordingly.
 
